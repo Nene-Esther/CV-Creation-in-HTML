@@ -1,0 +1,36 @@
+body {
+	background-color: yellow 
+} 
+h1 {
+	color: white, center: 20px; 
+}
+h1{
+	 font-family: arial; 
+	 color: blue;
+}
+h2{
+	font-family:serif; 
+	color: red;
+}
+p{
+	font-style: italic; 
+	color: green;
+}
+td{
+	font-family: italic; 
+	color: blue;
+}
+h5{
+	font-family: serif; 
+	color: purple;
+}
+li{
+	font-family: normal;
+	 color: blue;
+}
+img{
+	width:130px;
+	display:block;
+	margin left:auto;
+	margin right:auto;
+}
